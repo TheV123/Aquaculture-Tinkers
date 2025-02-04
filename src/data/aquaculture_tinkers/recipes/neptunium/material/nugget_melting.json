@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "aquaculture:neptunium_nugget"
+  },
+  "result": {
+    "fluid": "aquaculture_tinkers:neptunium",
+    "amount": 10
+  },
+  "temperature": 1250,
+  "time": 10
+}
