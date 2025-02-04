@@ -1,9 +1,12 @@
 {
-  "type": "tconstruct:material_melting",
-  "input": "aquaculture:neptunium_ingot",
-  "temperature": 1250,
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "aquaculture:neptunium_ingot"
+  },
   "result": {
-    "fluid": "aquaculture_tinkers:molten_neptunium",
-    "amount": 200
-  }
+    "fluid": "aquaculture_tinkers:neptunium",
+    "amount": 90
+  },
+  "temperature": 1250,
+  "time": 45
 }

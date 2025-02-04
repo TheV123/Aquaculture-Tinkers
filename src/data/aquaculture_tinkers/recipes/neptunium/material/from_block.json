@@ -1,7 +1,0 @@
-{
-  "type": "tconstruct:material",
-  "ingredient": { "item": "aquaculture:neptunium_ingot" },
-  "value": 9,
-  "needed": 2,
-  "material": "aquaculture:neptunium_ingot"
-}

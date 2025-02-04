@@ -1,5 +1,26 @@
 {
-  "default": [
-    { "name": "tconstruct:pierce", "level": 1 }
-  ]
+  "perStat": {
+    "tconstruct:armor": [
+      {
+        "level": 1,
+        "name": "tconstruct:turtle_shell"
+      }
+    ],
+    "tconstruct:melee_harvest": [
+      {
+        "level": 1,
+        "name": "aquaculture_tinkers:aquadynamic"
+      },
+      {
+        "level": 1,
+        "name": "tconstruct:hydraulic"
+      }
+    ],
+    "tconstruct:ranged": [
+      {
+        "level": 1,
+        "name": "aquaculture_tinkers:aquadynamic"
+      }
+    ]
+  }
 }

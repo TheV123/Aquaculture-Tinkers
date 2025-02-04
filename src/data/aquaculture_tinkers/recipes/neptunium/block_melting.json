@@ -1,10 +1,12 @@
 {
   "type": "tconstruct:melting",
-  "ingredient": { "item": "aquaculture:neptunium_block" },
+  "ingredient": { 
+    "item": "aquaculture:neptunium_block" 
+  },
   "result": {
-    "fluid": "aquaculture_tinkers:molten_neptunium",
-    "amount": 900
+    "fluid": "aquaculture_tinkers:neptunium",
+    "amount": 810
   },
   "temperature": 1250,
-  "time": 800
+  "time": 400
 }

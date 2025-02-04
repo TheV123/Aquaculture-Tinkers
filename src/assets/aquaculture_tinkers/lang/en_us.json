@@ -1,0 +1,9 @@
+{
+  "material.aquaculture_tinkers.neptunium": "Neptunium",
+  "fluid_type.aquaculture_tinkers.neptunium": "Molten Neptunium",
+  "item.aquaculture_tinkers.neptunium_bucket": "Molten Neptunium Bucket",
+
+  "modifier.aquaculture_tinkers.aquadynamic": "Aquadynamic",
+  "modifier.aquaculture_tinkers.aquadynamic.flavor": "Water you wating for?",
+  "modifier.aquaculture_tinkers.aquadynamic.description": "Deals +3 additional damange to Aquatic mobs per level"
+}
